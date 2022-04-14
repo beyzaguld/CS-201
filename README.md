@@ -1,2 +1,2 @@
 # CS201
-Sabanci University - Introduction to Computing Course
+Sabanci University - CS 201 - Introduction to Computing Course
